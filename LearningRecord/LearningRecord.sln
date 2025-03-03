@@ -5,6 +5,10 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningRecordWebApi", "LearningRecordWebApi\LearningRecordWebApi.csproj", "{5FD0B0EE-B1F3-4D62-B728-3B4D3B859567}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Send", "Send\Send.csproj", "{5518343F-AFE8-4102-AA52-1E649F6F6403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receive", "Receive\Receive.csproj", "{A7A37FFA-0D40-4287-BF1E-AECD2D39E9FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5FD0B0EE-B1F3-4D62-B728-3B4D3B859567}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FD0B0EE-B1F3-4D62-B728-3B4D3B859567}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FD0B0EE-B1F3-4D62-B728-3B4D3B859567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5518343F-AFE8-4102-AA52-1E649F6F6403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5518343F-AFE8-4102-AA52-1E649F6F6403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5518343F-AFE8-4102-AA52-1E649F6F6403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5518343F-AFE8-4102-AA52-1E649F6F6403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A37FFA-0D40-4287-BF1E-AECD2D39E9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A37FFA-0D40-4287-BF1E-AECD2D39E9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A37FFA-0D40-4287-BF1E-AECD2D39E9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A37FFA-0D40-4287-BF1E-AECD2D39E9FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
