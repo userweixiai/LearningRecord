@@ -48,3 +48,4 @@
 /LearningRecord/Receive/obj/Receive.csproj.nuget.g.targets
 /LearningRecord/Send/bin/Debug/net9.0
 /LearningRecord/Send/obj
+/LearningRecord/.vs
